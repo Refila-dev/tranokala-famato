@@ -24,7 +24,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased 
+        bg-[url('/Zoky.jpg')] bg-cover bg-center bg-fixed`}
       >
         <Header />
         <main> {/* ajoute un padding-top pour compenser le header fixe */}
