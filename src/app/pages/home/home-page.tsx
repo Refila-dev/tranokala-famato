@@ -18,14 +18,14 @@ const HomePage = () => {
                 <div className='w-1/2 text-lg flex flex-col lg:flex-row gap-6 mt-40'>
                     <div className='w-1/2'>
                     <h3 className='font-sans text-2xl'>Famaritana</h3>
-                        Ny FAMATO na Fivondronan'ny Ara-bazimba Manankasina Tompontany dia vondrona iray niforona tamin'ny taona .... 
-                        izay tarihan'i Andrianarisoa Ankoay. Ny kolontsaina malgasy, ny fomba amam-panao, ny fady, ny tantara 
-                        sy ireo maro hafa no hezahina hifampizarana ao anatin'ny vondrona.
+                        Ny FAMATO na Fivondronan&apos;ny Ara-bazimba Manankasina Tompontany dia vondrona iray niforona tamin&apos;ny taona .... 
+                        izay tarihan&apos;i Andrianarisoa Ankoay. Ny kolontsaina malgasy, ny fomba amam-panao, ny fady, ny tantara 
+                        sy ireo maro hafa no hezahina hifampizarana ao anatin&apos;ny vondrona.
                     </div>
                     <div className='w-1/2'>
                     <h3 className='font-sans text-2xl'>Tanjona</h3>
-                        Maro ny tanjon'ny FAMATO eo anivon'ny firenena sy ny fiarahamonina malagasy, raha tsy hilaza hafa tsy ny: 
-                        Famerenena "an-doharano" ny malagasy, ny fampiroboroboana ny kolontsaina sy ny soatoavina malagasy, anisan'izay ny 
+                        Maro ny tanjon&apos;ny FAMATO eo anivon&apos;ny firenena sy ny fiarahamonina malagasy, raha tsy hilaza hafa tsy ny: 
+                        Famerenena &quot;an-doharano&quot; ny malagasy, ny fampiroboroboana ny kolontsaina sy ny soatoavina malagasy, anisan&apos;izay ny 
                         fikarakarana ny taom-baovao malagasy isan-taona.
                     </div>
 
