@@ -12,7 +12,7 @@ const HomePage = () => {
             <div className='flex flex-col justify-content-center items-center text-center text-white px-6 py-20 gap-6'>
                 {/* Main content can go here */}
                 <div>
-                    <h1 className='font-sans text-3xl font-bold mt-15 animate-bounce'>Tongasoa eto amin'ny FAMATO</h1>
+                    <h1 className='font-sans text-3xl font-bold mt-15 animate-bounce'>Tongasoa eto amin&apos;ny FAMATO</h1>
                 </div>
                 
                 <div className='w-1/2 text-lg flex flex-col lg:flex-row gap-6 mt-40'>
