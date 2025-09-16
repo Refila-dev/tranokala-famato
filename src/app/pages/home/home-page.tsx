@@ -15,7 +15,7 @@ const HomePage = () => {
                     <h1 className='font-sans text-3xl font-bold mt-15 animate-bounce'>Tongasoa eto amin&apos;ny FAMATO</h1>
                 </div>
                 
-                <div className='w-1/2 text-lg flex flex-col lg:flex-row gap-6 mt-40'>
+                <div className='w-full text-lg flex justify-center items-center flex-col lg:flex-row lg:w-1/2 gap-6 mt-40'>
                     <div className='w-1/2'>
                     <h3 className='font-sans text-2xl'>Famaritana</h3>
                         Ny FAMATO na Fivondronan&apos;ny Ara-bazimba Manankasina Tompontany dia vondrona iray niforona tamin&apos;ny taona .... 
@@ -31,8 +31,8 @@ const HomePage = () => {
 
                 </div>
 
-                <div>
-                    <button className='font-mono mr-6 bg-white px-6 py-2 rounded-full text-gray-900 hover:bg-gray-200 cursor-pointer'>
+                <div className='flex flex-col lg:flex-row gap-6'>
+                    <button className='font-mono bg-white px-6 py-2 rounded-full text-gray-900 hover:bg-gray-200 cursor-pointer'>
                         Te hahafantatra misimisy kokoa
                     </button>
                     <button onClick={handleRegisterClick} className='font-mono bg-red-500 px-6 py-2 rounded-full text-white hover:bg-red-600 cursor-pointer'>

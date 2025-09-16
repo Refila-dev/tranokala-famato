@@ -1,5 +1,6 @@
 import HomePage from "./pages/home/home-page";
 import Archive from './pages/archive/archive-page';
+import Contact from './pages/contact/contact-page';
 
 export default function Home() {
   return (
@@ -10,6 +11,9 @@ export default function Home() {
       </section>
       <section id="tahiry">
         <Archive />
+      </section>
+      <section id="fifandraisana">
+        <Contact/>
       </section>
     </div>
   );
